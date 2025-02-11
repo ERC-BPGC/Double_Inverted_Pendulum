@@ -1,3 +1,3 @@
-# Double_Inverted_Pendulum
+# Single_Inverted_Pendulum
 
 Second commit
